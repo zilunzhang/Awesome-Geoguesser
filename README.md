@@ -1,7 +1,7 @@
 # Awesome-Geoguesser
 Summary of interesting Geoguesser-related papers/models/agents. Feel free to pull requests for the missing works.
 
-Thanks @zytx121 for the contribution! 
+Thanks [@zytx121](https://github.com/zytx121) for the contribution! 
   - [Awesome-VLGFM](https://github.com/zytx121/Awesome-VLGFM) repo for paper **Towards Vision-Language Geo-Foundation Models: A Survey**
 
 
@@ -27,7 +27,7 @@ Last Updated on 2024.06.27
 |2023|NeurIPS|`GeoCLIP`|[GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization](https://arxiv.org/abs/2309.16020)|[Github](https://github.com/VicenteVivan/geo-clip)|
 |2023|arXiv|`SatCLIP`|[SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery](https://arxiv.org/abs/2311.17179)|[Code](https://github.com/microsoft/satclip)|
 |2022|CVPR Oral|`VG pipeline`|[Deep Visual Geo-localization Benchmark](https://arxiv.org/abs/2204.03444)|[Github](https://github.com/gmberton/deep-visual-geo-localization-benchmark)
-|2022|Findings of EMNLP|`G^3`|[G3: Geolocation via Guidebook Grounding](https://arxiv.org/abs/2211.15521)
+|2022|Findings of EMNLP|`G^3`|[G3: Geolocation via Guidebook Grounding](https://arxiv.org/abs/2211.15521)|[Github](https://github.com/g-luo/geolocation_via_guidebook_grounding)
 |2022|GeoAI '22|`GEM`|[IM2City: image geo-localization via multi-modal learning](https://dl.acm.org/doi/abs/10.1145/3557918.3565868)|
 |2022|ECCV|`TransLocator`|[Where in the World is this Image? Transformer-based Geo-localization in the Wild](https://arxiv.org/abs/2204.13861)|[Github](https://github.com/ShramanPramanick/Transformer_Based_Geo-localization)
 |2021|IEEE Transactions on Multimedia|`GPS2Vec`|[GPS2Vec: Pre-Trained Semantic Embeddings for Worldwide GPS Coordinates](https://ieeexplore.ieee.org/document/9360464)| [Github](https://github.com/yifangyin/GPS2Vec/tree/main)
